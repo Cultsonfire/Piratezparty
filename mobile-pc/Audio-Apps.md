@@ -47,4 +47,4 @@
 -   [Foobar2000](https://www.foobar2000.org/) - Desktop
 -   [MusicBee](https://www.getmusicbee.com/) - Desktop 
 -   [MediaMonkey](https://www.mediamonkey.com/) - Desktop
--   [Aimp](https://www.aimp.ru/) - Desktop 
+-   [Aimp](https://www.aimp.ru/) - Desktop
