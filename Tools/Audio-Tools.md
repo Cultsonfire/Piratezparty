@@ -24,7 +24,7 @@
 
 -   [Soggyfy](https://github.com/Rafiuth/Soggfy) - A downloader mod for the Windows Spotify client.
 
--   [Tidal-Media-Downloaded](https://github.com/yaronzz/Tidal-Media-Downloader/) - Download TIDAL Music On Windows/Linux/MacOs.
+-   [Tidal-Media-Downloader-Pro](https://github.com/yaronzz/Tidal-Media-Downloader/) - Download TIDAL Music On Windows/Linux/MacOs.
 
 -   [Spy-spotify](https://github.com/jwallet/spy-spotify) - Records Spotify to mp3 without ads and adds media tags to the files.
 
