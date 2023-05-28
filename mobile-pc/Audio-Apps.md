@@ -24,6 +24,7 @@
 # Music Player/Server
 
 -   [Nuclear Music Player](https://nuclear.js.org/) - Desktop | Streaming music player that finds music from free sources automatically.
+-   [Salt Music Player](https://github.com/Moriafly/SaltPlayerSource) - Android | A Jetpack compose based offline music player.
 -   [TimberX](https://github.com/naman14/TimberX) - Android 
 -   [VinylMusicPlayer](https://github.com/AdrienPoupa/VinylMusicPlayer) - Android
 -   [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Android
@@ -39,7 +40,6 @@
 -   [BlackPlayer](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree) - Android 
 -   [MediaMonkey](https://www.mediamonkey.com/) - Android/Desktop 
 -   [Aimp](https://www.aimp.ru/) - Android/Desktop 
--   [Veezee Android](https://github.com/veezee-music/veezee-android)/[Web](https://github.com/veezee-music/veezee-web) - Android/Web
 -   [Nukeop](https://github.com/nukeop/nuclear) - Desktop
 -   [Dopamine](https://github.com/digimezzo/dopamine-windows) - Desktop
 -   [Apple Music for Windows](https://github.com/imxeno/apple-music-windows) - Desktop
